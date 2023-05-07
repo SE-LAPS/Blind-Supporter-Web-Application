@@ -1,0 +1,27 @@
+G:\2nd Year 2nd Sem\SA\API Connect\API Connect\bin\Debug\net6.0\appsettings.Development.json
+G:\2nd Year 2nd Sem\SA\API Connect\API Connect\bin\Debug\net6.0\appsettings.json
+G:\2nd Year 2nd Sem\SA\API Connect\API Connect\bin\Debug\net6.0\API Connect.exe
+G:\2nd Year 2nd Sem\SA\API Connect\API Connect\bin\Debug\net6.0\API Connect.deps.json
+G:\2nd Year 2nd Sem\SA\API Connect\API Connect\bin\Debug\net6.0\API Connect.runtimeconfig.json
+G:\2nd Year 2nd Sem\SA\API Connect\API Connect\bin\Debug\net6.0\API Connect.dll
+G:\2nd Year 2nd Sem\SA\API Connect\API Connect\bin\Debug\net6.0\API Connect.pdb
+G:\2nd Year 2nd Sem\SA\API Connect\API Connect\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\2nd Year 2nd Sem\SA\API Connect\API Connect\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\2nd Year 2nd Sem\SA\API Connect\API Connect\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\2nd Year 2nd Sem\SA\API Connect\API Connect\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\2nd Year 2nd Sem\SA\API Connect\API Connect\obj\Debug\net6.0\API Connect.csproj.AssemblyReference.cache
+G:\2nd Year 2nd Sem\SA\API Connect\API Connect\obj\Debug\net6.0\API Connect.GeneratedMSBuildEditorConfig.editorconfig
+G:\2nd Year 2nd Sem\SA\API Connect\API Connect\obj\Debug\net6.0\API Connect.AssemblyInfoInputs.cache
+G:\2nd Year 2nd Sem\SA\API Connect\API Connect\obj\Debug\net6.0\API Connect.AssemblyInfo.cs
+G:\2nd Year 2nd Sem\SA\API Connect\API Connect\obj\Debug\net6.0\API Connect.csproj.CoreCompileInputs.cache
+G:\2nd Year 2nd Sem\SA\API Connect\API Connect\obj\Debug\net6.0\API Connect.MvcApplicationPartsAssemblyInfo.cs
+G:\2nd Year 2nd Sem\SA\API Connect\API Connect\obj\Debug\net6.0\API Connect.MvcApplicationPartsAssemblyInfo.cache
+G:\2nd Year 2nd Sem\SA\API Connect\API Connect\obj\Debug\net6.0\staticwebassets.build.json
+G:\2nd Year 2nd Sem\SA\API Connect\API Connect\obj\Debug\net6.0\staticwebassets.development.json
+G:\2nd Year 2nd Sem\SA\API Connect\API Connect\obj\Debug\net6.0\scopedcss\bundle\API Connect.styles.css
+G:\2nd Year 2nd Sem\SA\API Connect\API Connect\obj\Debug\net6.0\API Connect.csproj.CopyComplete
+G:\2nd Year 2nd Sem\SA\API Connect\API Connect\obj\Debug\net6.0\API Connect.dll
+G:\2nd Year 2nd Sem\SA\API Connect\API Connect\obj\Debug\net6.0\refint\API Connect.dll
+G:\2nd Year 2nd Sem\SA\API Connect\API Connect\obj\Debug\net6.0\API Connect.pdb
+G:\2nd Year 2nd Sem\SA\API Connect\API Connect\obj\Debug\net6.0\API Connect.genruntimeconfig.cache
+G:\2nd Year 2nd Sem\SA\API Connect\API Connect\obj\Debug\net6.0\ref\API Connect.dll
