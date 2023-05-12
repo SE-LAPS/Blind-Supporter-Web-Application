@@ -60,11 +60,11 @@
 ![111](https://user-images.githubusercontent.com/87580847/236680805-79470647-6c64-4934-91f2-b06545427ebb.png)
 <br>
 
-<h4>13-Print UI-01</h4>
+<h4>13-Print UI-02</h4>
 ![222](https://user-images.githubusercontent.com/87580847/236680809-74f4876e-638d-4e92-b9d8-2d849c1c2bfa.png)
 <br>
 
-<h4>13-Print UI-01</h4>
+<h4>13-Print UI-03</h4>
 ![333](https://user-images.githubusercontent.com/87580847/236680814-c45239b6-e540-491d-8b8d-9bdde47cb76d.png)
 <br><br>
 
